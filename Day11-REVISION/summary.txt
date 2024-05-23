@@ -1,0 +1,32 @@
+🔄 𝐃𝐚𝐲 𝟏𝟏: 𝐑𝐞𝐯𝐢𝐬𝐢𝐨𝐧 𝐓𝐢𝐦𝐞! 🔄
+Over the past 𝟏𝟎 𝐝𝐚𝐲𝐬, I've been tackling DSA questions every day, and today, it's all about 𝐫𝐞𝐯𝐢𝐬𝐢𝐨𝐧! 🚀 Revisiting what you've learned is crucial to solidifying your understanding and improving problem-solving skills. Here’s a recap of the questions I've worked on:
+
+✅ 𝐃𝐚𝐲 𝟏: Find Permutation Difference (Leetcode-3146)
+✅ 𝐃𝐚𝐲 𝟐: Happy Number (Leetcode-202)
+✅ 𝐃𝐚𝐲 𝟑: Plus One (Leetcode-66)
+✅ 𝐃𝐚𝐲 𝟑: Excel Sheet Column Title (Leetcode-168)
+✅ 𝐃𝐚𝐲 𝟒: Greatest Common Divisor Of Strings (Leetcode-1071)
+✅ 𝐃𝐚𝐲 𝟓: Can Place Flowers (Leetcode-605)
+✅ 𝐃𝐚𝐲 𝟓: Divide Players Into Team Of Equal Skill (Leetcode-2491)
+✅ 𝐃𝐚𝐲 𝟔: Bulls and Cows (Leetcode-299)
+✅ 𝐃𝐚𝐲 𝟔: Reverse Words in a String (Leetcode-151)
+✅ 𝐃𝐚𝐲 𝟕: Increasing Triplet Subsequence (Leetcode-334)
+✅ 𝐃𝐚𝐲 𝟖: Move Zeroes (Leetcode-283)
+✅ 𝐃𝐚𝐲 𝟖: String Compression (Leetcode-443)
+✅ 𝐃𝐚𝐲 𝟗: Min Stack (Leetcode-155)
+✅ 𝐃𝐚𝐲 𝟏𝟎: Merge Sorted Arrays (Leetcode-88)
+
+𝗦𝗼𝗹𝘂𝘁𝗶𝗼𝗻 (GitHub) : https://lnkd.in/dgYsUZTX
+
+𝐖𝐡𝐲 𝐑𝐞𝐯𝐢𝐬𝐢𝐨𝐧 𝐌𝐚𝐭𝐭𝐞𝐫𝐬:
+𝐑𝐞𝐢𝐧𝐟𝐨𝐫𝐜𝐞𝐬 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 🧠: Revisiting problems helps reinforce concepts and techniques, making them stick.
+𝐈𝐝𝐞𝐧𝐭𝐢𝐟𝐢𝐞𝐬 𝐆𝐚𝐩𝐬 🔍: It reveals areas you might need more practice on.
+𝐁𝐨𝐨𝐬𝐭𝐬 𝐂𝐨𝐧𝐟𝐢𝐝𝐞𝐧𝐜𝐞 💪: Knowing you can solve these problems again builds confidence.
+𝐈𝐦𝐩𝐫𝐨𝐯𝐞𝐬 𝐒𝐩𝐞𝐞𝐝 ⏱️: With practice, you can solve problems faster and more efficiently.
+
+𝐓𝐢𝐩𝐬 𝐟𝐨𝐫 𝐄𝐟𝐟𝐞𝐜𝐭𝐢𝐯𝐞 𝐑𝐞𝐯𝐢𝐬𝐢𝐨𝐧:
+𝐏𝐫𝐚𝐜𝐭𝐢𝐜𝐞 𝐑𝐞𝐠𝐮𝐥𝐚𝐫𝐥𝐲: Consistency is key! Review problems daily.
+𝐌𝐢𝐱 𝐈𝐭 𝐔𝐩: Revisit both easy and challenging questions.
+𝐄𝐱𝐩𝐥𝐚𝐢𝐧 𝐒𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬: Teach someone else or write down your process. This deepens understanding.
+𝐓𝐫𝐚𝐜𝐤 𝐏𝐫𝐨𝐠𝐫𝐞𝐬𝐬: Keep a log of your improvements and areas needing attention.
+Let’s keep pushing forward and mastering these DSA concepts together! 🚀🔍💡
