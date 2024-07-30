@@ -26,7 +26,3 @@ Solving LeetCode problems daily helps me:
 ## How to Use This Repository?
 
 Feel free to explore the solutions provided here. If you have any suggestions or improvements, please open an issue or submit a pull request. Let's learn and grow together!
-
----
-
-Feel free to customize the template to fit your specific preferences and additional details about your journey.
